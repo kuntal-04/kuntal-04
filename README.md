@@ -4,19 +4,15 @@
 ## Skills 👩🏻‍💻
 <br>
 
+**FULL STACK** <br>
+Node.js | Express.js | Angular | React | TailwindCSS | MySQL | MongoDB | Oracle
+<br><br>
+
 **PROGRAMMING** <br>
 Java | Python | C++ | C
 <br><br>
 
-**FRONT-END** <br>
-ReactJS | TailwindCSS | CSS | HTML5
-<br><br>
-
-**BACK-END** <br>
-Oracle | MySQL
-<br><br>
-
-**APIs / OTHER** <br>
+**OTHER** <br>
 GitHub
 <br><br><br>
 
@@ -32,19 +28,27 @@ _Worked on an e-commerce website using ReactJS, TailwindCSS, HTML5_
 <br><br><br>
 
 ## Projects 💻
--  Company finance management system - Oracle | PHP
--  Library management system - C++ | C
--  Todo list management system - Java
--  Turf booking system
--  Fluffy favourites
+
+<br> **FULL STACK**
+-  [Portfolio wensite](https://...) 
+-  [Fluffy favourites](https://github.com/...)
+-  [Turf booking system](https://github.com/...) <br> PHP | MySQL | JavaScript | CSS
+-  [Company finance management system](https://github.com/...) <br> Oracle | PHP
+<br>
+
+**PROGRAMMING**
+-  [Todo list management system](https://github.com/...) <br> Java
+-  [Library management system](https://github.com/...) <br> C++ | C
+
 <br><br>
 
-## Certifications 📚
--  [Azure AI Fundamentals (AI-900)](https://futureskillsprime.in/artificial-intelligence-and-machine-learning/azure-ai-fundamentals-ai-900)
--  [Programming Basics for Automation Engineers
-](https://futureskillsprime.in/course/programming-basics-for-automation-engineers)
--  [Cisco NetAcad - Introduction to cybersecurity
-](https://futureskillsprime.in/cybersecurity/cisco-netacad-introduction-to-cyber-security)
+## CERTIFICATIONS
+ <!-- Upload certificates on google drive & add links here -->
+-  [NPTEL: Responsible & Safe AI Systems]()
+-  [Azure: AI Fundamentals (AI-900)](https://futureskillsprime.in/artificial-intelligence-and-machine-learning/azure-ai-fundamentals-ai-900)
+-  [C-DAC Bootcamp: UAS/Drone Technology]()
+-  [Cisco NetAcad: Introduction to cybersecurity](https://futureskillsprime.in/cybersecurity/cisco-netacad-introduction-to-cyber-security)
+-  [FutureSkillsPrime: Programming Basics for Automation Engineers](https://futureskillsprime.in/course/programming-basics-for-automation-engineers)
 <br><br><br>
 
 <!--
@@ -71,5 +75,6 @@ Specializing in AI & ML.
 <br><br><br>
 
 ## Connect with me 💬
--  www.linkedin.com/in/kuntalpandya
--  kuntalcpandya@gmail.com
+
+-  [linkedin.com/in/kuntalpandya](https://www.linkedin.com/in/kuntalpandya)
+-  [kuntalcpandya@gmail.com](mailto:kuntalcpandya@gmail.com)
