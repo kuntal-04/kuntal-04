@@ -30,9 +30,9 @@ _Worked on an e-commerce website using ReactJS, TailwindCSS, HTML5_
 ## Projects 💻
 
 <br> **FULL STACK**
--  [Portfolio wensite](https://...) 
--  [Fluffy favourites](https://github.com/...)
--  [Turf booking system](https://github.com/...) <br> PHP | MySQL | JavaScript | CSS
+-  [Portfolio website](https://...) 
+-  [Fluffy favourites](https://github.com/...) <br> React | Node | HTML5 | Tailwind CSS
+-  [Turf booking system](https://github.com/...) <br> PHP | MySQL | JavaScript | CSS | HTML
 -  [Company finance management system](https://github.com/...) <br> Oracle | PHP
 <br>
 
