@@ -1,4 +1,4 @@
-![Kuntal's LinkedIn Banner (1)](https://github.com/Kuntal-04/Kuntal-04/assets/155050499/cb78e6e1-d495-479a-ad29-06ff6d6ac6a8)
+![Kuntal's LinkedIn Banner (1)](https://github.com/user-attachments/assets/f96d674c-c3e0-40ac-86fc-ac394e035878)
 <br><br>
 
 ## Skills 👩🏻‍💻
