@@ -16,11 +16,11 @@ Java | Python | C++ | C
 GitHub
 <br><br><br>
 
-## Experience 👩🏻‍💼
+## Experience 👩‍💼
 <br>
 
-**Intern Full-stack Developer** @ [MaMo TechnoLabs](https://mamotechnolabs.com/) (Dec 2024 - Jan 2025) <br>
-_Working on an e-commerce website_
+**Ex-Intern Full-stack Developer** @ [MaMo TechnoLabs](https://mamotechnolabs.com/) (Dec 2024 - Jan 2025) <br>
+_Worked on an e-commerce website_
 <br><br>
 
 **Ex-intern Full-stack developer** @ [The Special Character](https://thespecialcharacter.com) (Jan 2024 - Mar 2024) <br>
