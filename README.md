@@ -1,7 +1,7 @@
 # Hi, I'm Kuntal Pandya 👋
 
-- B.Tech CSE Fresher
-- AI/ML Developer Intern @ [Inbox Infotech Pvt. Ltd.](https://inboxtechs.com)
+- B.Tech CSE Graduate
+- AI/ML Developer @ [Inbox Infotech Pvt. Ltd.](https://inboxtechs.com)
 - Based in Vadodara, India
 
 <a href="https://kuntal-04.github.io/portfolio/">
